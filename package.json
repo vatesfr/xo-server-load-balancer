@@ -50,7 +50,7 @@
     "must": "^0.13.1",
     "nyc": "^3.2.2",
     "source-map-support": "^0.3.3",
-    "standard": "^5.4.1",
+    "standard": "^8.2.0",
     "trace": "^2.0.1"
   },
   "scripts": {
