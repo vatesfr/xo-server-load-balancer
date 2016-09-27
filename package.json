@@ -46,7 +46,7 @@
     "babel-eslint": "^4.1.6",
     "clarify": "^1.0.5",
     "dependency-check": "^2.5.1",
-    "mocha": "^2.3.4",
+    "mocha": "^3.1.0",
     "must": "^0.13.1",
     "nyc": "^3.2.2",
     "source-map-support": "^0.3.3",
